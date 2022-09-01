@@ -1,0 +1,17 @@
+#card{
+width: 140px;
+height: 260px;
+}
+
+header{
+    background-color: #0c4d23;
+}
+
+footer{
+    background-color: #ab0a19;
+    padding: 15px;  
+}
+
+.pagination.hidden{
+    display: none;
+}
